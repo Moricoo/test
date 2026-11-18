@@ -1,0 +1,45 @@
+:root {
+  color-scheme: light;
+  --font-sans: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text',
+    'Helvetica Neue', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+  --font-mono: 'SF Mono', 'SFMono-Regular', ui-monospace, Menlo, monospace;
+
+  --bg: #f5f5f7;
+  --bg-top: #fbfbfd;
+  --surface: #ffffff;
+  --surface-2: #f2f2f7;
+  --surface-3: #e8e8ed;
+
+  --text: #1d1d1f;
+  --text-2: #6e6e73;
+  --text-3: #86868b;
+
+  --separator: rgba(60, 60, 67, 0.12);
+  --separator-strong: rgba(60, 60, 67, 0.22);
+
+  --accent: #0a6cff;
+  --accent-strong: #0055d4;
+  --accent-soft: #e9f1ff;
+  --mint: #7ff0d0;
+  --amber: #f5a623;
+  --danger: #ff3b30;
+
+  --radius-xs: 8px;
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 24px;
+  --radius-xl: 32px;
+  --radius-pill: 999px;
+
+  --shadow-xs: 0 1px 2px rgba(0, 0, 0, 0.04);
+  --shadow-sm: 0 2px 12px rgba(20, 20, 30, 0.05);
+  --shadow-md: 0 18px 48px rgba(20, 20, 30, 0.09);
+  --shadow-lg: 0 34px 90px rgba(12, 20, 30, 0.18);
+
+  --page-width: 1160px;
+  --page-gutter: 40px;
+  --header-height: 64px;
+
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --speed: 0.45s;
+}
